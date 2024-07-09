@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    border: 1px solid black;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.main{
+    text-align: center;
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 220px;
+    padding: 10px;
+    background-color: rgb(40, 213, 244);
+}
